@@ -1,1 +1,1 @@
-New file for update test.
+New file for update testing
